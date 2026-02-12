@@ -56,6 +56,6 @@ Comandos por workspace:
 - 
 ## Time
 
-- [@yeytaken](https://github.com/yeytaken) – Tech Lead
+- [@yeyTaken](https://github.com/yeyTaken) – Tech Lead
 
 
